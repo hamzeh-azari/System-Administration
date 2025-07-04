@@ -13,7 +13,6 @@ system-administration/
 ├── projects/ # Mini-projects with multiple files or detailed automation
 └── README.md # This file
 
-
 ---
 
 ## 🔧 Key Topics Covered
