@@ -2,6 +2,12 @@
 
 This repository contains a collection of scripts, automation tools, troubleshooting tickets, and mini-projects related to system administration.  
 It reflects my hands-on experience managing Windows servers, Active Directory, user lifecycle, automation tasks, and more.
+system-administration/
+
+├── scripts/ # Useful one-liner or multi-step PowerShell scripts
+├── tickets/ # Real-life or simulated troubleshooting scenarios
+├── projects/ # Mini-projects with multiple files or detailed automation
+└── README.md # This file
 
 ---
 
