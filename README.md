@@ -10,11 +10,11 @@ system-administration/
 
 system-administration/
 
-- ├── scripts/ # Useful one-liner or multi-step PowerShell scripts  
-- ├── scripts/ # Useful one-liner or multi-step PowerShell scripts  
-- ├── tickets/ # Real-life or simulated troubleshooting scenarios  
-- ├── projects/ # Mini-projects with multiple files or detailed automation  
-- └── README.md # This file  
+ ├── scripts/ # Useful one-liner or multi-step PowerShell scripts  
+ ├── scripts/ # Useful one-liner or multi-step PowerShell scripts  
+ ├── tickets/ # Real-life or simulated troubleshooting scenarios  
+ ├── projects/ # Mini-projects with multiple files or detailed automation  
+ └── README.md # This file  
 
 ---
 
