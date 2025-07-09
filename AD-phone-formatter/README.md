@@ -15,13 +15,14 @@ A PowerShell script to automatically clean and standardize phone and mobile numb
 - PowerShell
 - ActiveDirectory PowerShell module
 - Appropriate permissions to read and write user attributes in AD
+  
 2. Navigate into the project folder:
-```powershell
-   Install-Module -Name ImportExcel -Scope CurrentUser -Force
+  ```powershell
+     Install-Module -Name ImportExcel -Scope CurrentUser -Force
 3. Open PowerShell as Administrator.
 4. Run the script:
-```powershell
-.\Format-AdPhoneNumbers.ps1
+  ```powershell
+  .\Format-AdPhoneNumbers.ps1
 
 
 
