@@ -1,6 +1,3 @@
-
----
-
 ## 📜 Final PowerShell File: `Format-AdPhoneNumbers.ps1`
 
 <#
