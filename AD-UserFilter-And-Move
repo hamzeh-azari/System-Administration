@@ -11,7 +11,7 @@
     All company-specific details (e.g., OU paths, job titles, departments) should be customized before use.
 
 .NOTES
-    Author: Your Name
+    Author: Hamzeh Azari Hashjin
     Date: 2025-07-08
     Version: 1.0
     Requires: ActiveDirectory PowerShell module, ImportExcel module
