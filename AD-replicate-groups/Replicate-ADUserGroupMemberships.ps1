@@ -15,20 +15,22 @@
     The sAMAccountName of the target user who will be added to the same groups.
 
 .EXAMPLE
-    .\\Replicate-ADUserGroupMemberships.ps1 -oldUser jdoe -newUser jsmith
+    .\Replicate-ADUserGroupMemberships.ps1 -oldUser jdoe -newUser jsmith
 
 .NOTES
     Author: Hamzeh Azari Hashjin
     Date: 2025-07-08
     Version: 1.0
     Requires: ActiveDirectory PowerShell module
-    Run PowerShell as Administrator
 #>
-
 
 $oldUser = "OldUserName"
 $newUser = "NewUserName"
+
+# Get all groups the old user is a member of
 $groups = Get-ADUser $oldUser -Property MemberOf | Select-Object -ExpandProperty MemberOf
+
+# Add the new user to each group
 foreach ($group in $groups) {
     Add-ADGroupMember -Identity $group -Members $newUser
 }
