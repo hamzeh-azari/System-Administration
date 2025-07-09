@@ -17,12 +17,12 @@ A PowerShell script to automatically clean and standardize phone and mobile numb
 - Appropriate permissions to read and write user attributes in AD
 
 Navigate into the project folder:
-````PowerShell
+```powershell
 cd ad-phone-formatter
 
 Open PowerShell as Administrator.
 
 Run the script:
 
-````PowerShell
+```powershell
 .\Format-AdPhoneNumbers.ps1
