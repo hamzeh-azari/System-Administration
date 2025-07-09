@@ -26,3 +26,12 @@ A PowerShell script to automatically clean and standardize phone and mobile numb
 
 
 
+
+1. Open PowerShell as Administrator  
+2. Make sure the `ImportExcel` module is available:
+   ```powershell
+   Install-Module -Name ImportExcel -Scope CurrentUser -Force
+3. Modify and save the script with your own credentials and emails
+4. Run it:
+   ```powershell
+    .\EmailActivity-To-SQL.ps1
