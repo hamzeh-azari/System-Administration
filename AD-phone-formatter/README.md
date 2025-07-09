@@ -19,7 +19,9 @@ A PowerShell script to automatically clean and standardize phone and mobile numb
 1. Navigate into the project folder:
   ```powershell
      Install-Module -Name ImportExcel -Scope CurrentUser -Force
+
 2. Open PowerShell as Administrator.
+
 3. Run the script:
   ```powershell
   .\Format-AdPhoneNumbers.ps1
