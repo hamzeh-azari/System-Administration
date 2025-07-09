@@ -28,9 +28,9 @@ A PowerShell script to automatically clean and standardize phone and mobile numb
    ```
 
 🗂 **File Structure**
-ad-phone-formatter/
-├── Format-AdPhoneNumbers.ps1   # The main script to clean AD phone numbers
-└── README.md                   # Project documentation
+- ad-phone-formatter/
+- ├── Format-AdPhoneNumbers.ps1   # The main script to clean AD phone numbers
+- └── README.md                   # Project documentation
 
 **🛡️ Warning**
 ⚠️ This script directly modifies Active Directory user attributes.
