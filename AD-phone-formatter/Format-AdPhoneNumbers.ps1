@@ -2,7 +2,7 @@
 ---
 
 ## 📜 Final PowerShell File: `Format-AdPhoneNumbers.ps1`
-```powershell
+
 <#
 .SYNOPSIS
     Cleans and standardizes telephoneNumber and mobile attributes in Active Directory to the format (XXX) XXX-XXXX.
