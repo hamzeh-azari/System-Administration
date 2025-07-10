@@ -25,11 +25,13 @@ A PowerShell script that checks whether a list of email addresses exists in Acti
 
 ## 🗂 Input Format
 
-Your `emails.txt` should contain **one email address per line** like:
-
-john.doe@example.com
-jane.smith@example.com
+Your `emails.txt` should contain **one email address per line** like:  
+  
+john.doe@example.com  
+jane.smith@example.com  
 someone@company.org
+
+---
 
 ## 🚀 Usage
 
@@ -47,6 +49,8 @@ someone@company.org
    ```makefile
    C:\AD_Email_Check_Result.csv
    ```
+   
+---
 
 ## 🧾 Sample Script
 
@@ -104,19 +108,26 @@ ad-email-checker/
 └── README.md
 ```
 
+---
   
 **🛡️ Warning**  
 ⚠️ This script directly modifies Active Directory user attributes.  
 Always test in a staging or development environment before using in production.  
+
+---
   
 **🤝 Contributing**  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
+---
   
 📌 **Author**  
 Hamzeh Azari Hashjin  
   ☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure  
   📍 Based in Montreal, Canada  
   🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/  
+
+---
   
 **🛡️ License**  
       MIT License. Feel free to use, adapt and share with credit.
