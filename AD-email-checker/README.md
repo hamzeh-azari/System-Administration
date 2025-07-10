@@ -45,10 +45,11 @@ someone@company.org
 4. After execution, the results will be displayed in a table and saved to:
 
    ```makefile
-C:\AD_Email_Check_Result.csv
+   C:\AD_Email_Check_Result.csv
    ```
 
 🧾 Sample Script
+
    ```powershell
 # Path to the file containing email addresses (one per line)
 $emailListPath = "C:\emails.txt"
