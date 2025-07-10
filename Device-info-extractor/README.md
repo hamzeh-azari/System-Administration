@@ -116,9 +116,6 @@ device-info-extractor/
 ```
 
 ---
-
-
----
   
 **🛡️ Warning**  
 ⚠️ This script directly modifies Active Directory user attributes.  
