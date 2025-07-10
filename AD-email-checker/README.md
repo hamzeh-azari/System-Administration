@@ -101,7 +101,7 @@ Write-Host "`nCheck completed. Results saved to: $outputPath"
 
    ```
 
-📁 Project Structure
+**📁 Project Structure**
 ```sql
 ad-email-checker/  
 ├── Check-AD-Emails.ps1  
@@ -120,12 +120,13 @@ Always test in a staging or development environment before using in production.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 
 ---
-  
+
 📌 **Author**  
-Hamzeh Azari Hashjin  
+  Hamzeh Azari Hashjin  
   ☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure  
   📍 Based in Montreal, Canada  
   🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/  
+
 
 ---
   
