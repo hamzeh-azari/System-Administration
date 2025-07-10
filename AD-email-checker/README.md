@@ -48,7 +48,7 @@ someone@company.org
    C:\AD_Email_Check_Result.csv
    ```
 
-🧾 Sample Script
+## 🧾 Sample Script
 
    ```powershell
 # Path to the file containing email addresses (one per line)
