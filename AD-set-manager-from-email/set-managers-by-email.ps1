@@ -14,8 +14,12 @@ An Excel file with two columns:
 - EmployeeEmail
 - ManagerEmail
 
-.AUTHOR
-Hamzeh Azari
+
+.NOTES
+    Author: Hamzeh Azari Hashjin
+    Date: 2025-07-14
+    Version: 1.0
+    Requires: ActiveDirectory PowerShell module
 #>
 
 # Path to the Excel file (modify this as needed)
