@@ -74,8 +74,29 @@ Install-Module ImportExcel -Scope CurrentUser -Force
 - You can easily extend this script to log results to a file or export to CSV.
 - Useful in HR automation pipelines, onboarding flows, or migration cleanup tasks.
 
+
+---
+  
+**🛡️ Warning**  
+⚠️ This script directly modifies Active Directory user attributes.  
+Always test in a staging or development environment before using in production.  
+
+---
+  
+**🤝 Contributing**  
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
 ---
 
-## 📬 Contact
+📌 **Author**  
+  Hamzeh Azari Hashjin  
+  ☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure  
+  📍 Based in Montreal, Canada  
+  🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/  
 
-Have feedback or ideas? Reach out or open an issue — always happy to connect.
+
+---
+  
+**🛡️ License**  
+      MIT License. Feel free to use, adapt and share with credit.
+
