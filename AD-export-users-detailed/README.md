@@ -74,9 +74,22 @@ $exportPath = "C:\AD_Employees_Detailed.xlsx"
 - Fields that are empty in AD will show blank in Excel.
 - You can extend this to filter by OU, group membership, or include disabled accounts if needed.
 
+
+---
+  
+**🛡️ Warning**  
+⚠️ This script directly modifies Active Directory user attributes.  
+Always test in a staging or development environment before using in production.  
+
+---
+  
+**🤝 Contributing**  
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
+
 ---
 
-## 📬 Contact
-
-For improvements or feedback, feel free to open an issue or connect via GitHub.  
-Happy scripting!
+📌 **Author**  
+  Hamzeh Azari Hashjin  
+  ☁️ Cloud & Systems Admin | 💻 12+ years in Hosting & Infrastructure  
+  📍 Based in Montreal, Canada  
+  🌐 LinkedIn Profile : https://www.linkedin.com/in/hamzeh-azari/  
